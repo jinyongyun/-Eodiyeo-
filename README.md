@@ -1,14 +1,8 @@
 # -Eodiyeo-
 자꾸 까먹는 당신을 위한, 약속 - 위치 알림 앱 [어디여] 
-![Simulator Screenshot - iPhone 15 - 2024-01-05 at 12.47.40.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3de099d9-93f3-4629-a573-b788330d4c5a/75aed441-e3d5-45a9-bac1-a981b5eaedd1/Simulator_Screenshot_-_iPhone_15_-_2024-01-05_at_12.47.40.png)
 
-![Simulator Screenshot - iPhone 15 - 2024-01-05 at 12.50.47.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3de099d9-93f3-4629-a573-b788330d4c5a/c45576b5-f6f5-4603-8971-5ffc73d8822c/Simulator_Screenshot_-_iPhone_15_-_2024-01-05_at_12.50.47.png)
-
-![Simulator Screenshot - iPhone 15 - 2024-01-05 at 12.51.01.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3de099d9-93f3-4629-a573-b788330d4c5a/c575cc4d-2f74-488b-b569-3f68a1e956b9/Simulator_Screenshot_-_iPhone_15_-_2024-01-05_at_12.51.01.png)
-
-![Simulator Screenshot - iPhone 15 - 2024-01-05 at 12.51.11.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3de099d9-93f3-4629-a573-b788330d4c5a/bf460fc6-5d98-49f4-816c-9ac083aec8e0/Simulator_Screenshot_-_iPhone_15_-_2024-01-05_at_12.51.11.png)
-
-![Simulator Screenshot - iPhone 15 - 2024-01-05 at 12.51.20.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3de099d9-93f3-4629-a573-b788330d4c5a/6c5dff7a-094b-4367-baa5-db834c532f33/Simulator_Screenshot_-_iPhone_15_-_2024-01-05_at_12.51.20.png)
+![Simulator Screenshot - iPhone 15 - 2024-01-05 at 12 47 40](https://github.com/jinyongyun/Eodiyeo/assets/102133961/ca2619e5-c5a8-4a8b-bff4-0425dcba654d)| ![Simulator Screenshot - iPhone 15 - 2024-01-05 at 12 50 47](https://github.com/jinyongyun/Eodiyeo/assets/102133961/37a8d501-86cc-459d-9ce2-6c8b60f3d200)| ![Simulator Screenshot - iPhone 15 - 2024-01-05 at 12 51 01](https://github.com/jinyongyun/Eodiyeo/assets/102133961/7bcf7802-c637-42a8-ad5b-c344f0cb4345)| 실제구동화면
+----- | ----- | ----- | -----
 
 ## 구성 및 맡은 역할
 
@@ -32,7 +26,8 @@
 
 ## 구현기능
 
-![스크린샷 2024-01-05 오후 3.08.38.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3de099d9-93f3-4629-a573-b788330d4c5a/29998312-cd68-452e-bdb0-378af2abafb2/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-01-05_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_3.08.38.png)
+<img width="1792" alt="스크린샷 2024-01-05 오후 3 08 38" src="https://github.com/jinyongyun/Eodiyeo/assets/102133961/5aeb93f8-3933-4dc0-87d4-6523c3b538f6">
+
 
 - 위치 검색 (위치 정보를 입력하면 자동완성)
     - 사용자가 입력한 위치이름으로 해당 위치 정보를 알아낼 수 있다.
@@ -173,8 +168,6 @@
     Storyboard에서 TableView와 SearchBar를 아래 사진과 같이 생성해준다.
     
     (tableview에 datasoruce와 delegate 설정해주고 searchbar에도 delegate를 설정한다.)
-    
-    ![스크린샷 2024-01-05 오후 4.55.37.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3de099d9-93f3-4629-a573-b788330d4c5a/012adea6-c06c-4b55-9cd6-528c3526b87d/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-01-05_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_4.55.37.png)
     
     ```swift
     //
@@ -364,8 +357,6 @@
         }
     }
     ```
-    
-    ![Simulator Screenshot - iPhone 15 Plus - 2024-01-05 at 13.10.38.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3de099d9-93f3-4629-a573-b788330d4c5a/db875fbf-adca-46d7-afa9-fc31f61b9854/Simulator_Screenshot_-_iPhone_15_Plus_-_2024-01-05_at_13.10.38.png)
     
     이렇게 검색부분은 끝났다!! (소리질러)
     
@@ -663,11 +654,8 @@
 - 해결방법
     
     두근거리는 마음으로 심사 요청을 날렸는데…
-    
-    다음과 같은 사진과 함께 반려당했다.
-    
-    ![Screenshot-0105-150643.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3de099d9-93f3-4629-a573-b788330d4c5a/6055f950-573c-4add-ad57-b9cba2504459/Screenshot-0105-150643.png)
-    
+     반려당했다.
+  
     그래 이제는 익숙한 그녀석 guideline 5.1.1이다.
     
     권한 요청 알림에 나타나는 상세 메세지를 더 상세하게 쓰라는 요청이다.
@@ -680,8 +668,6 @@
     
     혹시나 여기도 info.plist 관련한 무언가가 있지 않을까?
     
-    ![스크린샷 2024-01-06 오전 8.57.54.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3de099d9-93f3-4629-a573-b788330d4c5a/5372a2fd-c9e6-4143-9e9f-51f908990bcb/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-01-06_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_8.57.54.png)
-    
     역시나 info.plist Values가 이전에 설정한 값으로 되어있고, info.plist에 입력한 값이 업데이트가 안되어있었다. 해당 Value를 바꿔주니 알림에 문구가 제대로 적용됐다.
     
 
@@ -689,7 +675,11 @@
 
 ## 앱 소개
 
-[어디여영상.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/3de099d9-93f3-4629-a573-b788330d4c5a/07f5cd1e-fe58-4eee-9b71-525cf7d2e748/%E1%84%8B%E1%85%A5%E1%84%83%E1%85%B5%E1%84%8B%E1%85%A7%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC.mp4)
+
+
+https://github.com/jinyongyun/Eodiyeo/assets/102133961/5704fe1f-e1fe-446e-bb88-49acfa5f9578
+
+
 
 아이폰 화면 녹화로 진행하다 보니, 화질이 조금 떨어진다.
 
@@ -697,4 +687,5 @@
 
 어느 시점에 오나 확인했다. 아래는 실제 알림이 도착한 모습이다.
 
-![Simulator Screenshot - iPhone 15 Plus - 2024-01-05 at 13.12.35.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3de099d9-93f3-4629-a573-b788330d4c5a/40875828-3e5b-4b5d-81ae-e899d921b1f1/Simulator_Screenshot_-_iPhone_15_Plus_-_2024-01-05_at_13.12.35.png)
+![Simulator Screenshot - iPhone 15 Plus - 2024-01-05 at 13 12 35](https://github.com/jinyongyun/Eodiyeo/assets/102133961/38e8bddd-aa28-4b6c-8afe-ce023d16c61e)
+
